@@ -22,6 +22,7 @@ public:
 
     int peek() {
         // ADD YOUR CODE HERE
+        // ADDING A NEW COMMENT
     }
 
     bool isEmpty() {
