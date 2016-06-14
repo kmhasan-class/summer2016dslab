@@ -22,7 +22,6 @@ public:
 
     int peek() {
         return array[top - 1];
-
     }
 
     bool isEmpty() {
