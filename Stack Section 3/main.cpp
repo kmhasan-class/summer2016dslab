@@ -44,7 +44,8 @@ int main() {
     cout << s.peek()  << endl;
 
     // use FOR loop instead of WHILE loop
-    while (!s.isEmpty())
+    for (; !s.isEmpty();)
         cout << s.pop() << endl;
+
     return 0;
 }
