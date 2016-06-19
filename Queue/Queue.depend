@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1466312182 source:/home/kmhasan/summer2016dslab/Queue/main.cpp
+	<iostream>
+	"queue.h"
+
+1466312141 /home/kmhasan/summer2016dslab/Queue/queue.h
+
