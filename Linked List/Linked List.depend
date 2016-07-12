@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468300069 source:/home/kmhasan/summer2016dslab/Linked List/node.cpp
+	<cstdlib>
+	<iostream>
+	"node.h"
+
+1468300064 /home/kmhasan/summer2016dslab/Linked List/node.h
+
