@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1468731152 source:/home/kmhasan/summer2016dslab/Linked List section 3/main.cpp
+	"linkedlist.h"
+	<iostream>
+
+1468729572 /home/kmhasan/summer2016dslab/Linked List section 3/node.h
+
+1468730067 source:/home/kmhasan/summer2016dslab/Linked List section 3/node.cpp
+	"node.h"
+	<cstdlib>
+	<iostream>
+
+1468731252 source:/home/kmhasan/summer2016dslab/Linked List section 3/linkedlist.cpp
+	"linkedlist.h"
+	<cstdlib>
+
+1468730845 /home/kmhasan/summer2016dslab/Linked List section 3/linkedlist.h
+	"node.h"
+
