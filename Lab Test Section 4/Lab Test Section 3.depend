@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1469332713 source:/home/kmhasan/summer2016dslab/Lab Test Section 3/main.cpp
+	"stack.h"
+	"queue.h"
+	<iostream>
+
+1469332757 /home/kmhasan/summer2016dslab/Lab Test Section 3/stack.h
+
+1469332337 /home/kmhasan/summer2016dslab/Lab Test Section 3/queue.h
+
+1469504244 source:/home/kmhasan/summer2016dslab/Lab Test Section 4/main.cpp
+	"stack.h"
+	"queue.h"
+	<iostream>
+
+1469504279 /home/kmhasan/summer2016dslab/Lab Test Section 4/stack.h
+
+1469504326 /home/kmhasan/summer2016dslab/Lab Test Section 4/queue.h
+
