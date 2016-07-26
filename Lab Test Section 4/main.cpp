@@ -13,8 +13,16 @@ int main() {
 
     cout << myStack.sum() << endl;
 
-    // Create another stack that has the same contents as this stack
-    // the contents of myStack should remain the same after the operations
+    // Create another new stack "newStack" that has half the
+    // number of elements compared to "myStack"
+
+    // Every pair of elements from myStack need to be summed up
+    // and inserted into newStack. After the operations myStack
+    // should retain its original entries. You're not supposed
+    // to do manual insertions. You can assume that myStack
+    // will have even number of elements
+
+    // For the given sample newStack should contain 50 and 50
 
     // You cannot access the "array" in the stack directly
     // You can only call push, pop, peek, isEmpty as required
