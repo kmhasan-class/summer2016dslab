@@ -11,5 +11,6 @@ public:
     void print();
     //bool searchInList(int key);
     Node* searchInList(int key);
+    void insertAtBack(int data);
     // HW: insertAtBack and removeFromBack
 };

@@ -40,3 +40,15 @@ Node* LinkedList::searchInList(int key) {
         }
     return address;
 }
+
+void LinkedList::insertAtBack(int data) {
+    Node *z = new Node(data);
+    Node *n;
+    if (head == NULL) {
+        head = z;
+    } else {
+        for (n = head; n->next != NULL; n = n->next)
+            ;
+        n->next = z;
+    }
+}

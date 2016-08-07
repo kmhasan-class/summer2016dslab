@@ -32,9 +32,10 @@ int main() {
     list.insertAtFront(15);
     list.insertAtFront(6);
     list.insertAtFront(3);
-
-    while (!list.isEmpty())
-        cout << list.removeFromFront() << endl;
+    list.insertAtBack(9);
+    list.print();
+//    while (!list.isEmpty())
+//        cout << list.removeFromFront() << endl;
     return 0;
 }
 
