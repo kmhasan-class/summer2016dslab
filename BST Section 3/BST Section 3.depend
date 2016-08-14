@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1471149890 source:/home/kmhasan/summer2016dslab/BST Section 3/bst.cpp
+	"bst.h"
+	<cstdlib>
+
+1471149807 /home/kmhasan/summer2016dslab/BST Section 3/bst.h
+	"node.h"
+
+1471149172 /home/kmhasan/summer2016dslab/BST Section 3/node.h
+
+1471149661 source:/home/kmhasan/summer2016dslab/BST Section 3/node.cpp
+	"node.h"
+	<cstdlib>
+	<iostream>
+
