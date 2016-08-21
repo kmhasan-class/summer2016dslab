@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471756395 source:/home/kmhasan/summer2016dslab/Binary Heap Section 3/heap.cpp
+	"heap.h"
+	<iostream>
+
+1471756513 /home/kmhasan/summer2016dslab/Binary Heap Section 3/heap.h
+
+1471756524 source:/home/kmhasan/summer2016dslab/Binary Heap Section 3/main.cpp
+	"heap.h"
+	<iostream>
+
